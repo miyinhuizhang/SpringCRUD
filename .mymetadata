@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringCRUD"
+  id="myeclipse.1492687555166"
+  context-root="/SpringCRUD"
+  j2ee-spec="6.0"
+  archive="SpringCRUD.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
